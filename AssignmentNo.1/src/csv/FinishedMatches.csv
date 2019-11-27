@@ -1,0 +1,14 @@
+homeTeam,awayTeam,startDate,score,tournament
+realMadrid,Sevilla,01/01/2019,1 2,spanish cup
+Barcelona,Real Sociedad,24/02/2019,3 4,euro cup
+Villarreal,realMadrid,10/03/2019,5 1,euro cup
+Real Betis,Levante,24/04/2019,1 0,spanish cup
+realMadrid,Barcelona,14/04/2019,0 0,euro cup
+Espanyol,Eibar,24/05/2019,4 0,euro cup
+Sevilla,Valencia,20/05/2019,0 3,spanish cup
+Eibar,realMadrid,14/06/2019,2 0,euro cup
+Espanyol,Villarreal,24/06/2019,1 1,spanish cup
+Levante,Real Betis,02/07/2019,2 5,euro cup
+Sevilla,Barcelona,24/08/2019,1 0 ,spanish cup
+realMadrid,Real Sociedad,02/08/2019,0 0,euro cup
+Villarreal,Valencia,03/08/2019,2 2,spanish cup
