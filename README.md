@@ -1,6 +1,5 @@
-# Android-Course-First-Assignment
+# Football-Game-Service
 
-You are going to build a football game service which clients can use to get the fixtures (upcoming matches) and the results of football matches. Specifications:
 
 A team has a unique ID and a name.
 A tournament has a unique ID and a name
@@ -15,12 +14,3 @@ Get list of matches by team.
 Get list of matches by team filtered by status
 Get list of matches by tournament.
 Get list of matches by tournament filtered by status
-
-Assumptions:
-The clients of this system know the teams and tournaments it supports
-The data in the Data origin has a known format and is valid.
-The matches input file path can be hard coded to the example input file path and
-No need to handle concurrency concerns.
-No Ul is required.
-All of the service responses will be in json format.
-No persistence required.
