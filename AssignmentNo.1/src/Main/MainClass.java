@@ -5,19 +5,25 @@ import java.util.ArrayList;
 
 import Classes.Api;
 import Classes.Match;
+import Classes.Menu;
 
 public class MainClass {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		Api api = new Api();
+		Menu menu = new Menu();
 		
-		ArrayList <Match> matches = api.getMatchesListByTeamAndStatus("realMadrid", "upcoming");
-		
-		for (int i=0 ; i<matches.size(); i++) {
-			System.out.println(matches.get(i));
-		}
-		
+		menu.startMenu();
 	}
+		
+//		Api api = new Api();
+		
+//		ArrayList <Match> matches = api.getMatchesListByTeamAndStatus("realMadrid", "upcoming");
+//		
+//		for (int i=0 ; i<matches.size(); i++) {
+//			System.out.println(matches.get(i));
+//		}
+//		
+//	}
 
 }
